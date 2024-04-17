@@ -6,7 +6,6 @@ NeuralShield is a groundbreaking crime prevention platform that leverages cuttin
 
 - [Citizen App](https://garv-it2002.github.io/hosting/): This is the frontend of the application that we are going to provide to the public for immediate crime reporting.
 - [Dashboard](https://lookerstudio.google.com/reporting/6daaf900-8fa4-4b75-96d4-72e6f2e204ab): (*Please allow some time for the entire dataset to load in the backend of the dashboard upon opening it.*) This is the dashboard for resource analysis and allocation that will be used by the police.
-- [Dataset](https://docs.google.com/spreadsheets/d/1KXRDZLgrpqj3IqG2wCTm-gcGAsUsiymJnGCfEIk39No/edit?usp=sharing): This is the dataset after cleaning and preprocessing that has been used for the development of NeuralShield.
 
 ## Table of Contents
 
