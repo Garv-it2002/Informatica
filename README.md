@@ -45,9 +45,9 @@ With the help of K-Means clustering, NeuralShield groups locations based on fact
 
 NeuralShield utilizes advanced analytics to predict crime hotspots and vulnerable areas while optimizing police deployment. By analyzing historical data and socio-economic factors, the platform predicts future crime patterns, enabling proactive intervention and enhanced resource allocation. Moreover, it facilitates police review processes to improve strategies, ultimately making communities safer by preventing crimes before they happen.
 
-## Google Cloud Integration
+## IDMC Integration
 
-Google Cloud plays a significant role in NeuralShield's infrastructure, providing scalable and reliable cloud services for data storage, processing, and analysis. Leveraging Google Cloud's advanced capabilities, NeuralShield ensures seamless integration, high performance, and robust security for its crime prevention platform.
+IDMC plays a significant role in NeuralShield's infrastructure, providing scalable and reliable cloud services for data storage, processing, and analysis. Leveraging IDMC's advanced capabilities, NeuralShield ensures seamless integration, high performance, and robust security for its crime prevention platform.
 
 ## Working
 
